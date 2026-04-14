@@ -1,6 +1,8 @@
 # PDS: Estudo Dirigido - Parte 1
 **Aluno:** Cefras José Ferreira Mandú de Almeida
+
 **Disciplina:** Processamento Digital de Sinais
+
 **Instituição:** Instituto Federal da Paraíba (IFPB)
 
 ## Descrição das Atividades
