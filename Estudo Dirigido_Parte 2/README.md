@@ -1,12 +1,11 @@
 # Estudo Dirigido - Parte 2: Convolução e Sistemas LTI
 
-
 ## Contexto Acadêmico
 * **Instituição:** Instituto Federal da Paraíba (IFPB) — Campus Campina Grande.
 * **Curso:** Engenharia da Computação.
 * **Disciplina:** Processamento Digital de Sinais.
 * **Aluno:** Cefras José Ferreira Mandú de Almeida
-* **Professor:** Moacy Pereira da Silva .
+* **Professor:** Moacy Pereira da Silva.
 
 ## Objetivos desta Etapa
 As atividades aqui desenvolvidas visam consolidar a capacidade de:
