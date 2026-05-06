@@ -79,8 +79,23 @@ for k = 0:N6-1
 end
 X_fft = fft(x6);
 
+% Validação matemática no terminal
 disp('Questão 6: Diferença máxima entre DFT manual e FFT nativa:');
-disp(max(abs(X_dft - X_fft))); % Deve ser próximo a zero
+disp(max(abs(X_dft - X_fft))); % Deve ser um valor minúsculo (próximo de zero)
+
+% Geração do Gráfico para comparar visualmente
+figure('Name', 'Questão 6: DFT Direta vs FFT');
+subplot(2,1,1); 
+stem(n6, abs(X_dft), 'b', 'filled'); 
+title('Espectro calculado via DFT Manual (Equação)');
+xlabel('Índice de Frequência (k)'); ylabel('Magnitude');
+grid on;
+
+subplot(2,1,2); 
+stem(n6, abs(X_fft), 'r', 'filled'); 
+title('Espectro calculado via algoritmo nativo FFT');
+xlabel('Índice de Frequência (k)'); ylabel('Magnitude');
+grid on;
 
 %% Questão 7: Transformada Z e Estabilidade (H(z) = 1 / (1 - 0.8z^-1))
 % Resposta ao impulso equivale a aplicar um impulso na equação de diferenças
