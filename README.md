@@ -17,10 +17,11 @@ O cronograma do estudo dirigido prevê entregas progressivas ao longo do semestr
   * **Foco:** Sinais contínuos e discretos, sequências elementares, cálculo de energia e potência, estabilidade BIBO e propriedades de sistemas.
 * 📁 **`Parte_2/` - Convolução e Sistemas LTI** (Prazo: 05/05/2026)
   * **Foco:** Resposta ao impulso, operações de convolução, resolução por equações de diferenças e análise de resposta transitória.
-* 📁 **`Parte_3/` - Análise no Domínio da Frequência** (Prazo: 19/05/2026)
-  * **Foco:** Decomposição espectral utilizando DTFT, DFT, FFT, Transformada-Z, além de estudos sobre aliasing e janelamento.
+
 
 ### ⏳ Próximas Etapas (Em Andamento / Planejadas)
+* 📁 **`Parte_3/` - Análise no Domínio da Frequência** (Prazo: 19/05/2026)
+  * **Foco:** Decomposição espectral utilizando DTFT, DFT, FFT, Transformada-Z, além de estudos sobre aliasing e janelamento.
 * 📁 **`Parte_4/` - Filtros Digitais** (Prazo: *)
   * **Foco:** Projeto e análise de filtros FIR e IIR, resposta em frequência, fase linear, atraso de grupo e avaliação do custo computacional.
 * 📁 **`Parte_5/` - Projeto Aplicado em Sistemas Embarcados e/ou Telemática** (Prazo: *)
