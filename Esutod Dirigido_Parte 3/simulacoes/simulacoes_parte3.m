@@ -1,5 +1,3 @@
-% ESTUDO DIRIGIDO - PARTE 3: Análise no Domínio da Frequência
-% Resolução das 10 Questões de Simulação
 clc; close all;
 graphics_toolkit('qt');
 
