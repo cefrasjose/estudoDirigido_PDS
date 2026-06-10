@@ -19,15 +19,11 @@ O cronograma do estudo dirigido prevê entregas progressivas ao longo do semestr
   * **Foco:** Resposta ao impulso, operações de convolução, resolução por equações de diferenças e análise de resposta transitória.
 * 📁 **`Parte_3/` - Análise no Domínio da Frequência** (Prazo: 19/05/2026)
   * **Foco:** Decomposição espectral utilizando DTFT, DFT, FFT, Transformada-Z, além de estudos sobre aliasing e janelamento.
-
-### ⏳ Próximas Etapas (Em Andamento / Planejadas)
-* 📁 **`Parte_4/` - Filtros Digitais** (Prazo: *)
+* 📁 **`Parte_4/` - Filtros Digitais** (Prazo: 17/06/2026)
   * **Foco:** Projeto e análise de filtros FIR e IIR, resposta em frequência, fase linear, atraso de grupo e avaliação do custo computacional.
-* 📁 **`Parte_5/` - Projeto Aplicado em Sistemas Embarcados e/ou Telemática** (Prazo: *)
-  * **Foco:** Aquisição digital de dados, processamento de sinais diretamente em microcontroladores, implementação de telemetria e validação experimental.
 
 ## Organização Interna dos Diretórios
-Para padronizar as entregas, cada diretório (Parte 1 a 5) está subdividido tipicamente da seguinte forma:
+Para padronizar as entregas, cada diretório (Parte 1 a 4) está subdividido tipicamente da seguinte forma:
 * `/teoria`: Resumos fundamentados abordando definições matemáticas, fórmulas e interpretações físicas.
 * `/simulacoes`: Códigos implementados em MATLAB/Octave/Python para análise dos sinais e sistemas.
 * `/resultados`: Gráficos gerados e discussões baseadas nas metodologias aplicadas.
